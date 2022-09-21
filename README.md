@@ -16,5 +16,7 @@ sdc - Spam delete channel
 scc - Spam create channel
 scr - Spam create role
 sdr - Spam delete role
+swh - Spam webhooks again
+spam - spam messages with no webhook
 
 ![Scythe Nuker]([https://png.pngtree.com/element_our/png_detail/20181227/golden-skull-png_287772.jpg])
