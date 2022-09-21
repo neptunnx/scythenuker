@@ -1,5 +1,5 @@
 # NUKER DETAILS
-sdc command may crash the nuker and you may have to rerun the nuker.
+sdc/sdr command may crash the nuker and you may have to rerun the nuker.
 
 ✅ - Fast Channel deleter
 
