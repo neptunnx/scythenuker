@@ -17,4 +17,4 @@ scc - Spam create channel
 scr - Spam create role
 sdr - Spam delete role
 
-![SCythe Nuker]([https://png.pngtree.com/element_our/png_detail/20181227/golden-skull-png_287772.jpg))
+![Scythe Nuker]([https://png.pngtree.com/element_our/png_detail/20181227/golden-skull-png_287772.jpg])
